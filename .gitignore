@@ -11,9 +11,6 @@ ENV/
 dist/
 build/
 
-# Streamlit
-.streamlit/
-
 # IDE
 .vscode/
 .idea/
